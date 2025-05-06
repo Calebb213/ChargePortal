@@ -1,0 +1,8 @@
+{
+  
+  "users": [
+    {"accName": "Lawrence", "password": "admin", "role": "admin"},
+    {"accName": "Eddie", "password": "user", "role": "user"}
+  ]
+
+}
